@@ -1,8 +1,13 @@
 ## Hi there 👋
 I'm Ankit and I'm a ML and computer vision engineer.
-I have 11 yoe in developing and deploying ML based solutions for automotive, defence, marine and healthcare industries.
+I have strong experience in developing and deploying ML based solutions.
+I have worked on projects for automotive, defence, marine and healthcare industries.
 
-My current focus areas are object detection and classification, enviornment perception and modelling,  RADAR based perception and sensor fusion.
+My current focus areas are:
+  - Object detection and classification
+  - Enviornment perception and modelling
+  - RADAR and camera fusion
+  - Edge AI.
 
 Check out [my portfolio] for more information about my projects.
 
