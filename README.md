@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Ankit and I'm a ML and computer vision engineer.
+I'm Ankit and I'm an ML and computer vision engineer.
 I have strong experience in developing and deploying ML based solutions.
 I have worked on projects for automotive, defence, marine and healthcare industries.
 
