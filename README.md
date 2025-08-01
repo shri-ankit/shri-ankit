@@ -1,5 +1,12 @@
 ## Hi there 👋
+I'm Ankit and I'm a ML and computer vision engineer.
+I have 11 yoe in developing and deploying ML based solutions for automotive, defence, marine and healthcare industries.
 
+My current focus areas are object detection and classification, enviornment perception and modelling,  RADAR based perception and sensor fusion.
+
+Check out [my portfolio] for more information about my projects.
+
+[my portfolio]: https://shri-ankit.github.io/portfolio/
 <!--
 **shri-ankit/shri-ankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
